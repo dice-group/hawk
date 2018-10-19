@@ -1,0 +1,11 @@
+QALD6_Train_Multilingual_NIF.ttl	
+results.html
+resources/
+deploy-scripts/data
+README.md
+hawk_api.json
+sorttable.js
+cache
+log.out
+results/
+lib
